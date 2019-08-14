@@ -1,0 +1,12 @@
+{
+  "name": "theme-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@dowdiness/gatsby-theme-events": "^1.0.0",
+    "gatsby": "^2.13.62",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
